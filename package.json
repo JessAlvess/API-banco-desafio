@@ -1,0 +1,39 @@
+{
+  "name": "desafio-backend-m02-dds-t16",
+  "version": "1.0.0",
+  "description": "Desafio de backend da cubos academy",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JessAlvess/desafio-backend-m02-dds-t16.git"
+  },
+  "keywords": [
+    "desafio",
+    "backend",
+    "banco",
+    "API",
+    "REST"
+  ],
+  "author": "Jessé Alves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JessAlvess/desafio-backend-m02-dds-t16/issues"
+  },
+  "homepage": "https://github.com/JessAlvess/desafio-backend-m02-dds-t16#readme",
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.0.2",
+    "@eslint/js": "^9.1.1",
+    "eslint": "^8.57.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.1",
+    "globals": "^15.0.0",
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "express": "^4.19.2"
+  }
+}
